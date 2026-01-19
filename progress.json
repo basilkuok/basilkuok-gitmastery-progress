@@ -1,5 +1,21 @@
 [
   {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1768669362.04833,
+    "completed_at": 1768669364.480035,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1768671912.31445,
+    "completed_at": 1768671914.683718,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "stage-fright",
     "started_at": 1768582636.335687,
     "completed_at": 1768582638.626171,
@@ -36,19 +52,12 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "grocery-shopping",
-    "started_at": 1768669362.04833,
-    "completed_at": 1768669364.480035,
+    "exercise_name": "remote-control",
+    "started_at": 1768813316.533128,
+    "completed_at": 1768813396.724887,
     "comments": [
-      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+      "Great work setting up a public remote repository!"
     ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "log-and-order",
-    "started_at": 1768671912.31445,
-    "completed_at": 1768671914.683718,
-    "comments": [],
     "status": "Completed"
   }
 ]
