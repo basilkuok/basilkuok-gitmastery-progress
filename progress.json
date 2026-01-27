@@ -275,5 +275,15 @@
       "Great work using all of the concepts you've learnt about branching to mix the messy documentation!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "merge-undo",
+    "started_at": 1769488484.419267,
+    "completed_at": 1769488489.889936,
+    "comments": [
+      "The 'main' branch is not pointing to the correct commit. It should be pointing to the commit made just before the merges.",
+      "Reset the repository using \"gitmastery progress reset\" and start again"
+    ],
+    "status": "Incomplete"
   }
 ]
